@@ -107,10 +107,10 @@ h2 {
 }
 
 .profile_image {
-  width: 550px;
+  width: 300px;
   height: fit-content;
   vertical-align: middle;
-  margin: 5px;
+  margin: 50px;
 }
 
 /* Skills */
@@ -212,6 +212,7 @@ h2 {
   border:1px solid gray;
   font-size: 18px;
   height:150px
+  
 }
 
 .recommendation span {
