@@ -16,6 +16,8 @@ function addRecommendation() {
     // Reset the value of the textarea
     recommendation.value = "";
   }
+
+  showPopup(true);
 }
 
 function showPopup(bool) {
