@@ -39,6 +39,8 @@ body {
   color: white;
   font-size: 30px;
   font-weight: bold;
+  font-family: 'roboto', sans-serif;
+  font-style: italic;
   /* Add the styles here */
 }
 
