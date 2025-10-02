@@ -20,6 +20,7 @@ function addRecommendation() {
   showPopup(true);
 }
 
+
 function showPopup(bool) {
   if (bool) {
     document.getElementById('popup').style.visibility = 'visible'
